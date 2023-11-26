@@ -1,0 +1,14 @@
+{
+    "numTestsKeptInMemory": 10,
+    "defaultCommandTimeout": 5000,
+    "viewportHeight": 768,
+    "viewportWidth": 1366,
+    "increasedRequestTimeout": 5000,
+    "pageLoadTimeout": 10000,
+    "trashAssetsBeforeRuns": true,
+    "screenshotOnRunFailure": true,
+    "video": false,
+    "videoUploadOnPasses": false,
+    
+    "testFiles": "**/*.feature"
+}
